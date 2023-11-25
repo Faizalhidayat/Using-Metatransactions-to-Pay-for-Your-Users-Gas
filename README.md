@@ -29,4 +29,4 @@ The repository also includes a robust test script that uses the Mocha testing fr
 5. Use the `transfer` function in the `TokenSender` contract to execute the transaction on your behalf.
 
 ## ⚠️ Note
-This is a basic implementation and might not be secure for production use. Always have your smart contracts audited by professionals before deploying them on the mainnet. Also, be aware of the gas costs associated with contract interactions. Stay safe and happy coding! 🚀
+This is a basic implementation and might not be secure for production use
